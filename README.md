@@ -7,7 +7,7 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 - Building AI products with deterministic validation around probabilistic models
 - Interested in AI Product Management, Associate Product Manager, Product Strategy, and Product Operations roles
 - Working primarily with Python, FastAPI, React/Next.js, TypeScript, PostgreSQL, RAG, Docker, and GitHub Actions
-- Open to product, AI engineering, and open-source collaboration
+- Open to product and AI engineering opportunities
 
 ## Selected work
 
@@ -31,10 +31,6 @@ Explainable product outcomes
 ```
 
 I care about the boundary between what an AI model produces and what a product can safely trust. My projects emphasize traceability, explicit trade-offs, realistic product scope, and documentation that makes technical decisions reviewable.
-
-## Open source
-
-I am contributing to Python and AI infrastructure projects through issue-driven pull requests with tests, benchmarks, and maintainer feedback. Current focus: [toqito](https://github.com/vprusso/toqito), an open-source quantum information toolkit.
 
 ## Connect
 
