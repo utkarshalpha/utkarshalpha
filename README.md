@@ -6,14 +6,16 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 
 - Building AI products with deterministic validation around probabilistic models
 - Interested in AI Product Management, Associate Product Manager, Product Strategy, and Product Operations roles
-- Working primarily with Python, FastAPI, React/Next.js, TypeScript, PostgreSQL, RAG, Docker, and GitHub Actions
+- Working primarily with Python, FastAPI, React/Next.js, TypeScript, PostgreSQL, AWS EC2, RAG, Docker, and GitHub Actions
 - Open to product and AI engineering opportunities
 
 ## Selected work
 
 | Project | What it demonstrates | Evidence |
 |---|---|---|
+| **BenNest** *(private)* | A zero-brokerage marketplace for student housing, flatmates, and vehicle listings, with role-specific workflows, moderation, enquiries, messaging, and privacy-conscious authentication | Next.js · TypeScript · Supabase · email OTP · signed server sessions · active development |
 | [ProdIntel AI](https://github.com/utkarshalpha/prodintel-ai) | Converts stakeholder feedback into evidence-traceable product decisions using a four-stage AI pipeline, deterministic validation, RAG, and decision provenance | [Live demo](https://appintel-ai-d9uewikfgwfaktmlnzrfrh.streamlit.app/) · 569 tests · 12 architecture decisions |
+| **AWS Remote Device Control (CDC)** *(private)* | A native operations console for controlling and diagnosing remote Android devices through secure EC2/SSH tunnels | Python · PySide6 · AWS EC2 · ADB/scrcpy · automated tests · Windows and macOS packaging |
 | [Multi-Agent Research Pipeline](https://github.com/utkarshalpha/multi-agent-research-pipeline) | Turns a research question into a structured, cited report using LangGraph agents, FastAPI, Claude, Tavily, arXiv, Qdrant, and deterministic offline mocks | CI · Docker · tests · evaluation fixtures · zero-key demo mode |
 
 ## How I build
