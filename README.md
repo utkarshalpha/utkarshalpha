@@ -64,18 +64,16 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 | [AWS Remote Device Control (CDC)](https://github.com/utkarshalpha/ec2-remote-adb-scrcpy) | A standalone Windows desktop executable for controlling and diagnosing remote Android devices through secure EC2/SSH tunnels | Python · PySide6 · AWS EC2 · ADB/scrcpy · automated tests · Windows `.exe` distribution |
 | [Multi-Agent Research Pipeline](https://github.com/utkarshalpha/multi-agent-research-pipeline) | Turns a research question into a structured, cited report using LangGraph agents, FastAPI, Claude, Tavily, arXiv, Qdrant, and deterministic offline mocks | CI · Docker · tests · evaluation fixtures · zero-key demo mode |
 
-## Open source contributions
+<div align="center">
 
-Patches across the Python and JavaScript tooling ecosystems:
-
+<a href="https://github.com/search?q=author%3Autkarshalpha+is%3Apr+-user%3Autkarshalpha&type=pullrequests">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="metrics-dark.svg">
   <img alt="Live open-source activity metrics for utkarshalpha" src="metrics-light.svg">
 </picture>
+</a>
 
-**Recently merged** — [isort](https://github.com/PyCQA/isort) · [h2](https://github.com/python-hyper/h2) · [webpack-bundle-analyzer](https://github.com/webpack/webpack-bundle-analyzer) · [IPython](https://github.com/ipython/ipython) · [PyGMT](https://github.com/GenericMappingTools/pygmt)
-
-**In review** — [pandas](https://github.com/pandas-dev/pandas) · [Prettier](https://github.com/prettier/prettier) · [Pygments](https://github.com/pygments/pygments) · [yarl](https://github.com/aio-libs/yarl) · [numpydoc](https://github.com/numpy/numpydoc) · [urfave/cli](https://github.com/urfave/cli) · [go-ini](https://github.com/go-ini/ini)
+</div>
 
 ## How I build
 
