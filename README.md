@@ -7,13 +7,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkaxh/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsh7854@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/utkarshalpha?style=for-the-badge&logo=github&label=Follow)](https://github.com/utkarshalpha)
+![Profile views](https://komarev.com/ghpvc/?username=utkarshalpha&style=for-the-badge&color=blueviolet&label=Profile+views)
 
 </div>
 
 I am a B.Tech Computer Science and Engineering student specializing in Data Science at Bennett University (2023–2027). I work at the intersection of **AI product management, backend engineering, and applied AI**, with an emphasis on evidence, evaluation, and clear product decisions.
 
 - 🔭 Building AI products with deterministic validation around probabilistic models
-- 🎯 Interested in AI Product Management, Associate Product Manager, Product Strategy, and Product Operations roles
+- 🎯 Interested in AI Product Management, Product Strategy, and Product Operations roles
 - 🌱 Contributing to open source across the Python and JavaScript tooling ecosystems
 - 📫 Open to product and AI engineering opportunities
 
