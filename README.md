@@ -68,7 +68,10 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 
 Patches across the Python and JavaScript tooling ecosystems:
 
-**137+** total contributions · **5** upstream PRs merged · **7** in review
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="metrics-dark.svg">
+  <img alt="Live open-source activity metrics for utkarshalpha" src="metrics-light.svg">
+</picture>
 
 **Recently merged** — [isort](https://github.com/PyCQA/isort) · [h2](https://github.com/python-hyper/h2) · [webpack-bundle-analyzer](https://github.com/webpack/webpack-bundle-analyzer) · [IPython](https://github.com/ipython/ipython) · [PyGMT](https://github.com/GenericMappingTools/pygmt)
 
