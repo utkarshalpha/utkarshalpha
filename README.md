@@ -68,25 +68,11 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 
 Patches across the Python and JavaScript tooling ecosystems:
 
-**Merged** — [IPython](https://github.com/ipython/ipython) · [isort](https://github.com/PyCQA/isort) · [h2](https://github.com/python-hyper/h2) · [PyGMT](https://github.com/GenericMappingTools/pygmt) · [webpack-bundle-analyzer](https://github.com/webpack/webpack-bundle-analyzer)
+**137+** total contributions · **5** upstream PRs merged · **7** in review
+
+**Recently merged** — [isort](https://github.com/PyCQA/isort) · [h2](https://github.com/python-hyper/h2) · [webpack-bundle-analyzer](https://github.com/webpack/webpack-bundle-analyzer) · [IPython](https://github.com/ipython/ipython) · [PyGMT](https://github.com/GenericMappingTools/pygmt)
 
 **In review** — [pandas](https://github.com/pandas-dev/pandas) · [Prettier](https://github.com/prettier/prettier) · [Pygments](https://github.com/pygments/pygments) · [yarl](https://github.com/aio-libs/yarl) · [numpydoc](https://github.com/numpy/numpydoc) · [urfave/cli](https://github.com/urfave/cli) · [go-ini](https://github.com/go-ini/ini)
-
-## GitHub metrics
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=utkarshalpha&theme=dark&hide_border=true">
-  <img alt="GitHub streak for utkarshalpha" src="https://streak-stats.demolab.com?user=utkarshalpha&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=utkarshalpha&theme=github-compact&hide_border=true">
-  <img alt="Contribution activity for utkarshalpha" src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshalpha&theme=minimal&hide_border=true">
-</picture>
-
-</div>
 
 ## How I build
 
