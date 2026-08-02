@@ -1,13 +1,57 @@
+<div align="center">
+
 # Utkarsh Tiwari
 
 ### AI product builder turning ambiguous signals into explainable, production-ready systems
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkaxh/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsh7854@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/utkarshalpha?style=for-the-badge&logo=github&label=Follow)](https://github.com/utkarshalpha)
+
+</div>
+
 I am a B.Tech Computer Science and Engineering student specializing in Data Science at Bennett University (2023–2027). I work at the intersection of **AI product management, backend engineering, and applied AI**, with an emphasis on evidence, evaluation, and clear product decisions.
 
-- Building AI products with deterministic validation around probabilistic models
-- Interested in AI Product Management, Associate Product Manager, Product Strategy, and Product Operations roles
-- Working primarily with Python, FastAPI, React/Next.js, TypeScript, PostgreSQL, AWS EC2, RAG, Docker, and GitHub Actions
-- Open to product and AI engineering opportunities
+- 🔭 Building AI products with deterministic validation around probabilistic models
+- 🎯 Interested in AI Product Management, Associate Product Manager, Product Strategy, and Product Operations roles
+- 🌱 Contributing to open source across the Python and JavaScript tooling ecosystems
+- 📫 Open to product and AI engineering opportunities
+
+## Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI & Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6B4FBB?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Selected work
 
@@ -15,8 +59,33 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 |---|---|---|
 | **[BenNest](https://bennest.vercel.app)** *(private code)* | A zero-brokerage marketplace for student housing, flatmates, and vehicle listings, with role-specific workflows, moderation, enquiries, messaging, and privacy-conscious authentication | Next.js · TypeScript · Supabase · email OTP · signed server sessions · [live product](https://bennest.vercel.app) |
 | [ProdIntel AI](https://github.com/utkarshalpha/prodintel-ai) | Converts stakeholder feedback into evidence-traceable product decisions using a four-stage AI pipeline, deterministic validation, RAG, and decision provenance | [Live demo](https://appintel-ai-d9uewikfgwfaktmlnzrfrh.streamlit.app/) · 569 tests · 12 architecture decisions |
+| [Tabyss](https://github.com/utkarshalpha/Tabyss) | A privacy-first browser extension that computes your browsing personality entirely on-device — zero network requests, zero tracking | JavaScript · Chrome extension APIs · on-device analytics |
 | **AWS Remote Device Control (CDC)** *(private)* | A standalone Windows desktop executable for controlling and diagnosing remote Android devices through secure EC2/SSH tunnels | Python · PySide6 · AWS EC2 · ADB/scrcpy · automated tests · Windows `.exe` distribution |
 | [Multi-Agent Research Pipeline](https://github.com/utkarshalpha/multi-agent-research-pipeline) | Turns a research question into a structured, cited report using LangGraph agents, FastAPI, Claude, Tavily, arXiv, Qdrant, and deterministic offline mocks | CI · Docker · tests · evaluation fixtures · zero-key demo mode |
+
+## Open source contributions
+
+Patches across the Python and JavaScript tooling ecosystems:
+
+**Merged** — [IPython](https://github.com/ipython/ipython) · [isort](https://github.com/PyCQA/isort) · [h2](https://github.com/python-hyper/h2) · [PyGMT](https://github.com/GenericMappingTools/pygmt) · [webpack-bundle-analyzer](https://github.com/webpack/webpack-bundle-analyzer)
+
+**In review** — [pandas](https://github.com/pandas-dev/pandas) · [Prettier](https://github.com/prettier/prettier) · [Pygments](https://github.com/pygments/pygments) · [yarl](https://github.com/aio-libs/yarl) · [numpydoc](https://github.com/numpy/numpydoc) · [urfave/cli](https://github.com/urfave/cli) · [go-ini](https://github.com/go-ini/ini)
+
+## GitHub metrics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=utkarshalpha&show_icons=true&hide_border=true&theme=github_dark">
+  <img alt="GitHub stats for utkarshalpha" src="https://github-readme-stats.vercel.app/api?username=utkarshalpha&show_icons=true&hide_border=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshalpha&layout=compact&hide_border=true&theme=github_dark">
+  <img alt="Top languages for utkarshalpha" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshalpha&layout=compact&hide_border=true">
+</picture>
+
+</div>
 
 ## How I build
 
