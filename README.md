@@ -77,13 +77,13 @@ Patches across the Python and JavaScript tooling ecosystems:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=utkarshalpha&show_icons=true&hide_border=true&theme=github_dark">
-  <img alt="GitHub stats for utkarshalpha" src="https://github-readme-stats.vercel.app/api?username=utkarshalpha&show_icons=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=utkarshalpha&theme=dark&hide_border=true">
+  <img alt="GitHub streak for utkarshalpha" src="https://streak-stats.demolab.com?user=utkarshalpha&hide_border=true">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshalpha&layout=compact&hide_border=true&theme=github_dark">
-  <img alt="Top languages for utkarshalpha" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshalpha&layout=compact&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=utkarshalpha&theme=github-compact&hide_border=true">
+  <img alt="Contribution activity for utkarshalpha" src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshalpha&theme=minimal&hide_border=true">
 </picture>
 
 </div>
