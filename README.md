@@ -4,6 +4,7 @@
 
 ### AI product builder turning ambiguous signals into explainable, production-ready systems
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-C6FF3D?style=for-the-badge&logo=readdotcv&logoColor=black)](https://utkarshalpha.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkaxh/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsh7854@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/utkarshalpha?style=for-the-badge&logo=github&label=Follow)](https://github.com/utkarshalpha)
@@ -93,4 +94,4 @@ I care about the boundary between what an AI model produces and what a product c
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/utkaxh/) · [Email](mailto:utkarsh7854@gmail.com) · [GitHub](https://github.com/utkarshalpha)
+[Portfolio](https://utkarshalpha.github.io) · [LinkedIn](https://www.linkedin.com/in/utkaxh/) · [Email](mailto:utkarsh7854@gmail.com) · [GitHub](https://github.com/utkarshalpha)
