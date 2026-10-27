@@ -16,7 +16,7 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 
 - 🔭 Building AI products with deterministic validation around probabilistic models
 - ⚙️ Working with Java/Spring Boot, payment-state workflows, CI/CD security gates, and GitOps staging deployments
-- 🛠️ Latest build: a Java merchant-payments simulator with an AWS Jenkins DevSecOps pipeline; verified through staging on 28 October 2026
+- 🛠️ Latest build: [Merchant Payments — AWS Jenkins DevSecOps Lab](https://github.com/utkarshalpha/merchant-payments-devsecops), with a public portfolio edition and a staging milestone verified on 28 October 2026
 - 🎯 Interested in AI Product Management, Product Strategy, and Product Operations roles
 - 🌱 Contributing to open source across the Python and JavaScript tooling ecosystems
 - 📫 Open to product and AI engineering opportunities
@@ -25,7 +25,7 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 
 | Project | What it demonstrates | Evidence |
 |---|---|---|
-| **Merchant Payments — AWS Jenkins DevSecOps Lab** *(private code)* | A Spring Boot simulator for INR payment orders, idempotent retries, simulated payments and refunds. Jenkins builds and scans the application, signs Docker images in ECR, and promotes verified digests to Argo CD/K3s staging with PostgreSQL. No real money transactions. | Build #17 passed end to end on 28 Oct 2026 · 19 application tests · 7 staging smoke checks · Trivy, Semgrep, Dependency-Check, Gitleaks, Checkov, Cosign and passive ZAP DAST |
+| **[Merchant Payments — AWS Jenkins DevSecOps Lab](https://github.com/utkarshalpha/merchant-payments-devsecops)** | A Spring Boot simulator for INR payment orders, idempotent retries, simulated payments and refunds. Jenkins builds and scans the application, signs Docker images in ECR, and promotes verified digests to Argo CD/K3s staging with PostgreSQL. No real money transactions. | Original lab: build #17 passed end to end on 28 Oct 2026, with 7 staging smoke checks · Public edition: 19 application tests and 10 deployment-policy/helper tests passed · [Source, walkthrough and screenshots](https://github.com/utkarshalpha/merchant-payments-devsecops) |
 | **[BenNest](https://bennest.vercel.app)** *(private code)* | A zero-brokerage marketplace for student housing, flatmates, and vehicle listings, with role-specific workflows, moderation, enquiries, messaging, and privacy-conscious authentication | Next.js · TypeScript · Supabase · email OTP · signed server sessions · [live product](https://bennest.vercel.app) |
 | **[Jigsaw Together](https://github.com/utkarshalpha/jigsaw-together)** | A collaborative puzzle with one shared board, live cursors, piece locking and snapping, room recovery, and peer-to-peer voice/video. No account required. | [Play online](https://playjigsaw.onrender.com) · Node.js · Express · WebSockets · WebRTC · protocol, snapping and recovery tests |
 | [ProdIntel AI](https://github.com/utkarshalpha/prodintel-ai) | Converts stakeholder feedback into evidence-traceable product decisions using a four-stage AI pipeline, deterministic validation, RAG, and decision provenance | [Live demo](https://appintel-ai-d9uewikfgwfaktmlnzrfrh.streamlit.app/) · 569 tests · 12 architecture decisions |
