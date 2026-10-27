@@ -21,6 +21,18 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 - 🌱 Contributing to open source across the Python and JavaScript tooling ecosystems
 - 📫 Open to product and AI engineering opportunities
 
+## Selected work
+
+| Project | What it demonstrates | Evidence |
+|---|---|---|
+| **Merchant Payments — AWS Jenkins DevSecOps Lab** *(private code)* | A Spring Boot simulator for INR payment orders, idempotent retries, simulated payments and refunds. Jenkins builds and scans the application, signs Docker images in ECR, and promotes verified digests to Argo CD/K3s staging with PostgreSQL. No real money transactions. | Build #17 passed end to end on 28 Oct 2026 · 19 application tests · 7 staging smoke checks · Trivy, Semgrep, Dependency-Check, Gitleaks, Checkov, Cosign and passive ZAP DAST |
+| **[BenNest](https://bennest.vercel.app)** *(private code)* | A zero-brokerage marketplace for student housing, flatmates, and vehicle listings, with role-specific workflows, moderation, enquiries, messaging, and privacy-conscious authentication | Next.js · TypeScript · Supabase · email OTP · signed server sessions · [live product](https://bennest.vercel.app) |
+| **[Jigsaw Together](https://github.com/utkarshalpha/jigsaw-together)** | A collaborative puzzle with one shared board, live cursors, piece locking and snapping, room recovery, and peer-to-peer voice/video. No account required. | [Play online](https://playjigsaw.onrender.com) · Node.js · Express · WebSockets · WebRTC · protocol, snapping and recovery tests |
+| [ProdIntel AI](https://github.com/utkarshalpha/prodintel-ai) | Converts stakeholder feedback into evidence-traceable product decisions using a four-stage AI pipeline, deterministic validation, RAG, and decision provenance | [Live demo](https://appintel-ai-d9uewikfgwfaktmlnzrfrh.streamlit.app/) · 569 tests · 12 architecture decisions |
+| [Tabyss](https://microsoftedge.microsoft.com/addons/detail/tabyss-%E2%80%94-know-your-scroll/bcnealjpndcccogjpceoaokeahmfdkha) | A privacy-first browser extension that computes your browsing personality entirely on-device — zero network requests, zero tracking | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tabyss-%E2%80%94-know-your-scroll/bcnealjpndcccogjpceoaokeahmfdkha) · [source code](https://github.com/utkarshalpha/Tabyss) · JavaScript · on-device analytics |
+| [AWS Remote Device Control (CDC)](https://github.com/utkarshalpha/ec2-remote-adb-scrcpy) | A standalone Windows desktop executable for controlling and diagnosing remote Android devices through secure EC2/SSH tunnels | Python · PySide6 · AWS EC2 · ADB/scrcpy · automated tests · Windows `.exe` distribution |
+| [Multi-Agent Research Pipeline](https://github.com/utkarshalpha/multi-agent-research-pipeline) | Turns a research question into a structured, cited report using LangGraph agents, FastAPI, Claude, Tavily, arXiv, Qdrant, and deterministic offline mocks | CI · Docker · tests · evaluation fixtures · zero-key demo mode |
+
 ## Skills & tools
 
 **Product & delivery**
@@ -80,17 +92,6 @@ AWS ECR and Systems Manager, rootless Docker, K3s, Helm, Argo CD, immutable imag
 **DevSecOps project experience**
 
 Gitleaks secret scanning; Semgrep SAST; OWASP Dependency-Check SCA; Trivy container scanning and SBOMs; Checkov IaC checks; Cosign image signing and verification; ZAP authenticated passive DAST.
-
-## Selected work
-
-| Project | What it demonstrates | Evidence |
-|---|---|---|
-| **Merchant Payments — AWS Jenkins DevSecOps Lab** *(private code)* | A Spring Boot simulator for INR payment orders, idempotent retries, simulated payments and refunds. Jenkins builds and scans the application, signs Docker images in ECR, and promotes verified digests to Argo CD/K3s staging with PostgreSQL. No real money transactions. | Build #17 passed end to end on 28 Oct 2026 · 19 application tests · 7 staging smoke checks · Trivy, Semgrep, Dependency-Check, Gitleaks, Checkov, Cosign and passive ZAP DAST |
-| **[BenNest](https://bennest.vercel.app)** *(private code)* | A zero-brokerage marketplace for student housing, flatmates, and vehicle listings, with role-specific workflows, moderation, enquiries, messaging, and privacy-conscious authentication | Next.js · TypeScript · Supabase · email OTP · signed server sessions · [live product](https://bennest.vercel.app) |
-| [ProdIntel AI](https://github.com/utkarshalpha/prodintel-ai) | Converts stakeholder feedback into evidence-traceable product decisions using a four-stage AI pipeline, deterministic validation, RAG, and decision provenance | [Live demo](https://appintel-ai-d9uewikfgwfaktmlnzrfrh.streamlit.app/) · 569 tests · 12 architecture decisions |
-| [Tabyss](https://microsoftedge.microsoft.com/addons/detail/tabyss-%E2%80%94-know-your-scroll/bcnealjpndcccogjpceoaokeahmfdkha) | A privacy-first browser extension that computes your browsing personality entirely on-device — zero network requests, zero tracking | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tabyss-%E2%80%94-know-your-scroll/bcnealjpndcccogjpceoaokeahmfdkha) · [source code](https://github.com/utkarshalpha/Tabyss) · JavaScript · on-device analytics |
-| [AWS Remote Device Control (CDC)](https://github.com/utkarshalpha/ec2-remote-adb-scrcpy) | A standalone Windows desktop executable for controlling and diagnosing remote Android devices through secure EC2/SSH tunnels | Python · PySide6 · AWS EC2 · ADB/scrcpy · automated tests · Windows `.exe` distribution |
-| [Multi-Agent Research Pipeline](https://github.com/utkarshalpha/multi-agent-research-pipeline) | Turns a research question into a structured, cited report using LangGraph agents, FastAPI, Claude, Tavily, arXiv, Qdrant, and deterministic offline mocks | CI · Docker · tests · evaluation fixtures · zero-key demo mode |
 
 <div align="center">
 
