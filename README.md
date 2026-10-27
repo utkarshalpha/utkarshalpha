@@ -15,6 +15,7 @@
 I am a B.Tech Computer Science and Engineering student specializing in Data Science at Bennett University (2023–2027). I work at the intersection of **AI product management, backend engineering, and applied AI**, with an emphasis on evidence, evaluation, and clear product decisions.
 
 - 🔭 Building AI products with deterministic validation around probabilistic models
+- 🛠️ Latest build: a Java merchant-payments simulator with an AWS Jenkins DevSecOps pipeline; verified through staging on 28 October 2026
 - 🎯 Interested in AI Product Management, Product Strategy, and Product Operations roles
 - 🌱 Contributing to open source across the Python and JavaScript tooling ecosystems
 - 📫 Open to product and AI engineering opportunities
@@ -31,6 +32,7 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 
 **AI & Backend**
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -53,6 +55,8 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -60,6 +64,7 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 
 | Project | What it demonstrates | Evidence |
 |---|---|---|
+| **Merchant Payments — AWS Jenkins DevSecOps Lab** *(private code)* | A Spring Boot simulator for INR payment orders, idempotent retries, simulated payments and refunds. Jenkins builds and scans the application, signs Docker images in ECR, and promotes verified digests to Argo CD/K3s staging with PostgreSQL. No real money transactions. | Build #17 passed end to end on 28 Oct 2026 · 19 application tests · 7 staging smoke checks · Trivy, Semgrep, Dependency-Check, Gitleaks, Checkov, Cosign and passive ZAP DAST |
 | **[BenNest](https://bennest.vercel.app)** *(private code)* | A zero-brokerage marketplace for student housing, flatmates, and vehicle listings, with role-specific workflows, moderation, enquiries, messaging, and privacy-conscious authentication | Next.js · TypeScript · Supabase · email OTP · signed server sessions · [live product](https://bennest.vercel.app) |
 | [ProdIntel AI](https://github.com/utkarshalpha/prodintel-ai) | Converts stakeholder feedback into evidence-traceable product decisions using a four-stage AI pipeline, deterministic validation, RAG, and decision provenance | [Live demo](https://appintel-ai-d9uewikfgwfaktmlnzrfrh.streamlit.app/) · 569 tests · 12 architecture decisions |
 | [Tabyss](https://microsoftedge.microsoft.com/addons/detail/tabyss-%E2%80%94-know-your-scroll/bcnealjpndcccogjpceoaokeahmfdkha) | A privacy-first browser extension that computes your browsing personality entirely on-device — zero network requests, zero tracking | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tabyss-%E2%80%94-know-your-scroll/bcnealjpndcccogjpceoaokeahmfdkha) · [source code](https://github.com/utkarshalpha/Tabyss) · JavaScript · on-device analytics |
