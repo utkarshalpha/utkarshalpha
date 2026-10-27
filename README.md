@@ -2,7 +2,7 @@
 
 # Utkarsh Tiwari
 
-### AI product builder turning ambiguous signals into explainable, production-ready systems
+### Building AI products, Java backends, and secure cloud delivery workflows
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-C6FF3D?style=for-the-badge&logo=readdotcv&logoColor=black)](https://utkarshalpha.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkaxh/)
@@ -12,15 +12,20 @@
 
 </div>
 
-I am a B.Tech Computer Science and Engineering student specializing in Data Science at Bennett University (2023–2027). I work at the intersection of **AI product management, backend engineering, and applied AI**, with an emphasis on evidence, evaluation, and clear product decisions.
+I am a B.Tech Computer Science and Engineering student specializing in Data Science at Bennett University (2023–2027). My work spans **AI product management, backend engineering, and cloud/DevSecOps**: turning user problems into requirements, building testable applications, and automating their delivery. I focus on explainable AI, reliable APIs, and repeatable deployments.
 
 - 🔭 Building AI products with deterministic validation around probabilistic models
+- ⚙️ Working with Java/Spring Boot, payment-state workflows, CI/CD security gates, and GitOps staging deployments
 - 🛠️ Latest build: a Java merchant-payments simulator with an AWS Jenkins DevSecOps pipeline; verified through staging on 28 October 2026
 - 🎯 Interested in AI Product Management, Product Strategy, and Product Operations roles
 - 🌱 Contributing to open source across the Python and JavaScript tooling ecosystems
 - 📫 Open to product and AI engineering opportunities
 
-## Tech stack
+## Skills & tools
+
+**Product & delivery**
+
+Product discovery, PRDs, requirements and acceptance criteria, RICE/Kano prioritization, stakeholder coordination, and cross-functional delivery.
 
 **Languages**
 
@@ -30,16 +35,22 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI & Backend**
+**Backend engineering**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+Java 21, Maven, REST APIs, Spring Data JPA, Flyway migrations, idempotency, database transactions, and automated API tests.
+
+**Applied AI**
+
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6B4FBB?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+Agentic workflows, retrieval-augmented generation, source provenance, deterministic validation, and evaluation fixtures.
 
 **Frontend**
 
@@ -48,17 +59,27 @@ I am a B.Tech Computer Science and Engineering student specializing in Data Scie
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Data & Infrastructure**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+
+**Cloud, CI/CD & GitOps**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+AWS ECR and Systems Manager, rootless Docker, K3s, Helm, Argo CD, immutable image promotion, and staging smoke tests.
+
+**DevSecOps project experience**
+
+Gitleaks secret scanning; Semgrep SAST; OWASP Dependency-Check SCA; Trivy container scanning and SBOMs; Checkov IaC checks; Cosign image signing and verification; ZAP authenticated passive DAST.
 
 ## Selected work
 
@@ -93,10 +114,12 @@ Typed, testable system design
         ↓
 Deterministic validation and evaluation
         ↓
+Security gates and verified staging delivery
+        ↓
 Explainable product outcomes
 ```
 
-I care about the boundary between what an AI model produces and what a product can safely trust. My projects emphasize traceability, explicit trade-offs, realistic product scope, and documentation that makes technical decisions reviewable.
+I start with the user problem, define the expected behavior, and test it before delivery. I document design decisions and keep test results, security reports, and deployment evidence alongside the code.
 
 ## Connect
 
